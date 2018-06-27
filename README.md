@@ -1,2 +1,2 @@
-# Himiachi
-> Wolf's bot.
+# Taylors bot
+> I made this bot for Taylor.
