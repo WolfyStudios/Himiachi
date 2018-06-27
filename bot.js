@@ -3,7 +3,7 @@ bot = new discord.Client(),
 config = require('./config.json'),
 prefix = ".",
 {baselogger} = require('./logger.js')
-bot.login(process.env.token);
+bot.login(NDYxMzE5ODM0NTk3MzI2ODQ5.DhRlxw._ItdnoVjSg1CegMvcgzIX8YUuak);
 
 // ===Loading commands===
 
