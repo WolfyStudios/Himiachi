@@ -1,7 +1,7 @@
 {
   "ownerids": ["369256915479560192", "356248091227324426"],
   "mainadmin": []
-  "donotAnnounce" [""],
+  "donotAnnounce": [""],
   "rotator": "yes",
   "ubl": [""]
 }
